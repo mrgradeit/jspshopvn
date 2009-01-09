@@ -17,4 +17,4 @@ Recommend book to learn Tomcat
   	 Tomcat: The Definitive Guide, 2nd Edition  http://rapidshare.com/files/163327195/ebook.Tomcat_The_Definitive_Guide.0596101066.zip
 </li>
 </ul>
-MyEclipse has Tomcat embedded in, but it cost 200mb ram to run >.<
+Tomcat is embedded in MyEclipse, but the IDE cost 200mb Ram to run >.<
