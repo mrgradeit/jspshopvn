@@ -8,7 +8,7 @@ Apache Tomcat is a servlet container developed by the Apache Software Foundation
 = Details =
 You can download Apache Tomcat form http://tomcat.apache.org
 
-Recommend book to learn Tomcat
+Recommend books to learn Tomcat
 <ul>
 <li>
   	 Professional Apache Tomcat 6  http://ifile.it/jbl9th/0471753610.rar
