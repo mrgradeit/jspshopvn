@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+Apache Tomcat
+
+= Introduction =
+Apache Tomcat is a servlet container developed by the Apache Software Foundation (ASF). Tomcat implements the Java Servlet and the JavaServer Pages (JSP) specifications from Sun Microsystems, and provides a "pure Java" HTTP web server environment for Java code to run.
+
+
+= Details =
+You can download Apache Tomcat form http://tomcat.apache.org
+
+Recommend book to learn Tomcat
+<ul>
+<li>
+  	 Professional Apache Tomcat 6  http://ifile.it/jbl9th/0471753610.rar
+</li>
+<li>
+  	 Tomcat: The Definitive Guide, 2nd Edition  http://rapidshare.com/files/163327195/ebook.Tomcat_The_Definitive_Guide.0596101066.zip
+</li>
+</ul>
+
+
